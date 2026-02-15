@@ -62,7 +62,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-L5T2Y0-333?style=flat-square&logo=github)](https://github.com/L5T2Y0)
-[![Gmail](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:your-email@example.com)
+[![Gmail](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:l0t0y@vip.qq.com)
 
 <br/>
 
