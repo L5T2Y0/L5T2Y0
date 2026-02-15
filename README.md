@@ -24,7 +24,7 @@
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=L5T2Y0&show_icons=true&theme=material-palenight&hide_border=true&width=470" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=L5T2Y0&layout=compact&theme=material-palenight&hide_border=true&width=470&langs_count=8" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=L5T2Y0&layout=donut&theme=material-palenight&hide_border=true&width=470" />
     </td>
   </tr>
 </table>
