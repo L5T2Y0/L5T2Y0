@@ -21,10 +21,10 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=L5T2Y0&show_icons=true&theme=material-palenight&hide_border=true" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=L5T2Y0&show_icons=true&theme=material-palenight&hide_border=true&width=470" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=L5T2Y0&layout=compact&theme=material-palenight&hide_border=true" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=L5T2Y0&layout=compact&theme=material-palenight&hide_border=true&width=470&langs_count=8" />
     </td>
   </tr>
 </table>
@@ -62,7 +62,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-L5T2Y0-333?style=flat-square&logo=github)](https://github.com/L5T2Y0)
-[![Gmail](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:l0t0y@vip.qq.com)
+[![Gmail](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:mengyu88x@gmail.com)
 
 <br/>
 
